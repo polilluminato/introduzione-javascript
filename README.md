@@ -36,12 +36,15 @@
 
 * [JavaScript Comparison and Logical Operators](https://www.w3schools.com/js/js_comparisons.asp)
 
-## JSON come formato di rappresentazione dati. JSON.parse e JSON.stringify
+## Formato JSON JSON.parse e JSON.stringify
 
 * [JavaScript Objects
 ](https://www.w3schools.com/js/js_object_definition.asp)
 * [JSON - Introduction
 ](https://www.w3schools.com/js/js_json_intro.asp)
+* [JSON.parse()](https://www.w3schools.com/js/js_json_parse.asp)
+* [JSON.stringify()](https://www.w3schools.com/js/js_json_stringify.asp)
+
 
 ## Arrow functions
 
