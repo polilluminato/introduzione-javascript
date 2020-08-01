@@ -1,5 +1,10 @@
 # Introduzione a javascript
 
+## Loggare variabili in console
+
+* [The Console Object](https://www.w3schools.com/Jsref/api_console.asp)
+* [A Guide to Console Commands](https://css-tricks.com/a-guide-to-console-commands/)
+
 ## Dichiarazione variabili, assegnamento e tipi di dato
 
 * Nomi di variabili
@@ -18,11 +23,6 @@
     * [Equality comparisons and sameness](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness)
 * Convenzioni nella scrittura del linguaggio: 
     * [JavaScript Style Guide and Coding Conventions](https://www.w3schools.com/js/js_conventions.asp)
-
-## Loggare variabili in console
-
-* [The Console Object](https://www.w3schools.com/Jsref/api_console.asp)
-* [A Guide to Console Commands](https://css-tricks.com/a-guide-to-console-commands/)
 
 ## const, var e let
 
