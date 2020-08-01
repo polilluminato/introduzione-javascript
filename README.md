@@ -16,6 +16,9 @@
 * Tipi di dato: 
     * [JavaScript Data Types](https://www.w3schools.com/js/js_datatypes.asp)
     * [JavaScript data types and data structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
+    * [Type conversion
+](https://developer.mozilla.org/en-US/docs/Glossary/Type_conversion)
+    * [Type coercion](https://developer.mozilla.org/en-US/docs/Glossary/Type_coercion)
 * Array: 
     * [JavaScript Arrays](https://www.w3schools.com/js/js_arrays.asp)
 * Operatori di comparazione: 
