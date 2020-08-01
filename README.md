@@ -36,7 +36,7 @@
 
 * [JavaScript Comparison and Logical Operators](https://www.w3schools.com/js/js_comparisons.asp)
 
-## Formato JSON JSON.parse e JSON.stringify
+## Formato JSON
 
 * [JavaScript Objects
 ](https://www.w3schools.com/js/js_object_definition.asp)
