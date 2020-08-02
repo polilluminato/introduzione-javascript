@@ -35,10 +35,6 @@
 ](https://www.w3schools.com/js/js_const.asp)
 
 
-## Ternary operator
-
-* [JavaScript Comparison and Logical Operators](https://www.w3schools.com/js/js_comparisons.asp)
-
 ## Formato JSON
 
 * [JavaScript Objects
@@ -47,6 +43,10 @@
 ](https://www.w3schools.com/js/js_json_intro.asp)
 * [JSON.parse()](https://www.w3schools.com/js/js_json_parse.asp)
 * [JSON.stringify()](https://www.w3schools.com/js/js_json_stringify.asp)
+
+## Ternary operator
+
+* [JavaScript Comparison and Logical Operators](https://www.w3schools.com/js/js_comparisons.asp)
 
 
 ## Arrow functions
