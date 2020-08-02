@@ -55,22 +55,22 @@
 
 
 //Operatori di comparazione e coercion
-var a = 5, b = '6';
-if( a < b ) {
-    console.log('la matematica non è un opinione');
-}
-console.log( a + b );
-console.log( a + Number(b) );
+// var a = 5, b = '6';
+// if( a < b ) {
+//     console.log('la matematica non è un opinione');
+// }
+// console.log( a + b );
+// console.log( a + Number(b) );
 
-if( '2' > '12' ) {
-    console.log('Avrà ragione JavaScript?');
-}
+// if( '2' > '12' ) {
+//     console.log('Avrà ragione JavaScript?');
+// }
 
-if( false < 1 ) {
-    console.log('Avrà ragione JavaScript?');
-}
+// if( false < 1 ) {
+//     console.log('Avrà ragione JavaScript?');
+// }
 
-var c = '5', d = 5;
-if ( c == d ) {
-    console.log('Avrà ragione JavaScript?');
-}
+// var c = '5', d = 5;
+// if ( c == d ) {
+//     console.log('Avrà ragione JavaScript?');
+// }
