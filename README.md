@@ -35,7 +35,7 @@
 ](https://www.w3schools.com/js/js_const.asp)
 
 
-## Formato JSON
+## Oggetti e JSON
 
 * [JavaScript Objects
 ](https://www.w3schools.com/js/js_object_definition.asp)
@@ -49,15 +49,18 @@
 * [JavaScript Comparison and Logical Operators](https://www.w3schools.com/js/js_comparisons.asp)
 
 
+## Template literals
+
+* [Template literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
+
+
 ## Arrow functions
 
 * [Arrow function expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
 * [Arrow Function
 ](https://www.w3schools.com/js/js_arrow_function.asp)
 
-## Template literals
 
-* [Template literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
 
 ## Classi
 
