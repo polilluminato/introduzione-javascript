@@ -24,6 +24,7 @@
     * [Equality comparisons and sameness](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness)
 * Convenzioni nella scrittura del linguaggio: 
     * [JavaScript Style Guide and Coding Conventions](https://www.w3schools.com/js/js_conventions.asp)
+    * [JavaScript Naming Conventions](https://www.robinwieruch.de/javascript-naming-conventions)
 
 ## Array
 
@@ -38,6 +39,8 @@
 * [JavaScript Let](https://www.w3schools.com/js/js_let.asp)
 * [JavaScript Const
 ](https://www.w3schools.com/js/js_const.asp)
+* Articoli
+    * [Var, Let, and Const – What's the Difference?](https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/)
 
 
 ## Oggetti e JSON
@@ -48,6 +51,8 @@
 ](https://www.w3schools.com/js/js_json_intro.asp)
 * [JSON.parse()](https://www.w3schools.com/js/js_json_parse.asp)
 * [JSON.stringify()](https://www.w3schools.com/js/js_json_stringify.asp)
+* Articoli
+    * [The Secret Power of JSON.Stringify](https://medium.com/better-programming/the-secret-power-of-json-stringify-f5aad9370ad)
 
 ## Ternary operator
 
@@ -64,6 +69,8 @@
 * [Arrow function expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
 * [Arrow Function
 ](https://www.w3schools.com/js/js_arrow_function.asp)
+* Articoli
+    * [A Simple Guide to Arrow Functions in JavaScript](https://lo-victoria.com/a-simple-guide-to-arrow-functions-in-javascript-ckd6kqoaz023am8s15m0u4x5k)
 
 
 ## Classi
@@ -73,8 +80,16 @@
 ## Iteration su Array
 
 * [JavaScript Array Iteration Methods](https://www.w3schools.com/JS/js_array_iteration.asp)
+* Articoli
+    * [Build your JavaScript Muscles with map, reduce, filter and other array iterators](https://blog.greenroots.info/build-your-javascript-muscles-with-map-reduce-filter-and-other-array-iterators-cjyo22miw000xzss1ydfqveib)
+    * [How To Start Using .map() .filter() and .reduce()](https://medium.com/better-programming/how-to-start-using-map-filter-and-reduce-e01edba0d81)
 
 ## Moduli e require
+
+## Async/Await e Promise
+
+* Articoli
+    * [An Introduction to Promises in JavaScript](https://medium.com/better-programming/an-introduction-to-promises-in-javascript-a29bfdad4643)
 
 ## Esempi di best practice
 
