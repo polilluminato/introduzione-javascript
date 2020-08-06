@@ -19,13 +19,18 @@
     * [Type conversion
 ](https://developer.mozilla.org/en-US/docs/Glossary/Type_conversion)
     * [Type coercion](https://developer.mozilla.org/en-US/docs/Glossary/Type_coercion)
-* Array: 
-    * [JavaScript Arrays](https://www.w3schools.com/js/js_arrays.asp)
 * Operatori di comparazione: 
     * [JavaScript Comparison and Logical Operators](https://www.w3schools.com/js/js_comparisons.asp)
     * [Equality comparisons and sameness](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness)
 * Convenzioni nella scrittura del linguaggio: 
     * [JavaScript Style Guide and Coding Conventions](https://www.w3schools.com/js/js_conventions.asp)
+
+## Array
+
+* [JavaScript Arrays](https://www.w3schools.com/js/js_arrays.asp)
+* [Array - MDN web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+* [JavaScript Array Methods](https://www.w3schools.com/js/js_array_methods.asp)
+
 
 ## const, var e let
 
@@ -61,10 +66,13 @@
 ](https://www.w3schools.com/js/js_arrow_function.asp)
 
 
-
 ## Classi
 
 * [Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
+
+## Iteration su Array
+
+* [JavaScript Array Iteration Methods](https://www.w3schools.com/JS/js_array_iteration.asp)
 
 ## Moduli e require
 
