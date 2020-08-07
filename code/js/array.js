@@ -40,8 +40,6 @@
 // console.log("Lunghezza prima: " + operationalArray.length);
 
 
-
-
 //Operazioni su array
 // operationalArray.push(8);
 // console.log("Push");
