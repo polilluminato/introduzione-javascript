@@ -26,11 +26,23 @@
     * [JavaScript Style Guide and Coding Conventions](https://www.w3schools.com/js/js_conventions.asp)
     * [JavaScript Naming Conventions](https://www.robinwieruch.de/javascript-naming-conventions)
 
+
+## Function e Arrow functions
+
+* [JavaScript Functions](https://www.w3schools.com/js/js_functions.asp)
+* [Arrow function expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+* [Arrow Function
+](https://www.w3schools.com/js/js_arrow_function.asp)
+* Articoli
+    * [A Simple Guide to Arrow Functions in JavaScript](https://lo-victoria.com/a-simple-guide-to-arrow-functions-in-javascript-ckd6kqoaz023am8s15m0u4x5k)
+
+
 ## Array
 
 * [JavaScript Arrays](https://www.w3schools.com/js/js_arrays.asp)
 * [Array - MDN web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
 * [JavaScript Array Methods](https://www.w3schools.com/js/js_array_methods.asp)
+* [JavaScript Sorting Arrays](https://www.w3schools.com/js/js_array_sort.asp)
 
 
 ## const, var e let
@@ -54,6 +66,7 @@
 * Articoli
     * [The Secret Power of JSON.Stringify](https://medium.com/better-programming/the-secret-power-of-json-stringify-f5aad9370ad)
 
+
 ## Ternary operator
 
 * [JavaScript Comparison and Logical Operators](https://www.w3schools.com/js/js_comparisons.asp)
@@ -64,18 +77,10 @@
 * [Template literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
 
 
-## Arrow functions
-
-* [Arrow function expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
-* [Arrow Function
-](https://www.w3schools.com/js/js_arrow_function.asp)
-* Articoli
-    * [A Simple Guide to Arrow Functions in JavaScript](https://lo-victoria.com/a-simple-guide-to-arrow-functions-in-javascript-ckd6kqoaz023am8s15m0u4x5k)
-
-
 ## Classi
 
 * [Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
+
 
 ## Iteration su Array
 
