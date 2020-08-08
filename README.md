@@ -47,6 +47,13 @@
 * [Array - MDN web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
 * [JavaScript Array Methods](https://www.w3schools.com/js/js_array_methods.asp)
 * [JavaScript Sorting Arrays](https://www.w3schools.com/js/js_array_sort.asp)
+* Articoli
+    * [JavaScript Array Methods](https://blog.gyenabubakar.dev/javascript-array-methods-ck8z9mfch01jqmys126svpjmg)
+    * [How I work with arrays](https://hashnode.com/post/how-i-work-with-arrays-ckbub745k00dwkbs1bdtiakeb)
+    * [Javascript Array Methods](https://hashnode.com/post/javascript-array-methods-ckbiq3chr015r0ns11tqglykb)
+    * [Ways to Empty an Array in JavaScript and the Consequences](https://blog.greenroots.info/ways-to-empty-an-array-in-javascript-and-the-consequences-cjwt45q9d002h2fs1kz5a77a2)
+    * [Manipulating Arrays in JavaScript](https://bolajiayodeji.com/manipulating-arrays-in-javascript-cjvuuty3500354js1sba6z6yr)
+    * [Understanding JavaScript Slice and Splice](https://babysteps.hashnode.dev/understanding-javascript-slice-and-splice-ckd8vl17x00bpqus1cysu10qy)
 
 
 ## const, var e let
@@ -69,6 +76,7 @@
 * [JSON.stringify()](https://www.w3schools.com/js/js_json_stringify.asp)
 * Articoli
     * [The Secret Power of JSON.Stringify](https://medium.com/better-programming/the-secret-power-of-json-stringify-f5aad9370ad)
+    * [Different ways to create Objects in JavaScript](https://blog.pankaj.pro/different-ways-to-create-objects-in-javascript-ck66i6wqp03ip89s1uw155rb7)
 
 
 ## Ternary operator
@@ -92,6 +100,7 @@
 * Articoli
     * [Build your JavaScript Muscles with map, reduce, filter and other array iterators](https://blog.greenroots.info/build-your-javascript-muscles-with-map-reduce-filter-and-other-array-iterators-cjyo22miw000xzss1ydfqveib)
     * [How To Start Using .map() .filter() and .reduce()](https://medium.com/better-programming/how-to-start-using-map-filter-and-reduce-e01edba0d81)
+    * [15 must-know JavaScript array methods in 2020](https://hashnode.com/post/15-must-know-javascript-array-methods-in-2020-ck5cc0zqm01b9qps1dpig0mtv)
 
 ## Moduli e require
 
