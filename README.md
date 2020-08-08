@@ -35,6 +35,10 @@
 ](https://www.w3schools.com/js/js_arrow_function.asp)
 * Articoli
     * [A Simple Guide to Arrow Functions in JavaScript](https://lo-victoria.com/a-simple-guide-to-arrow-functions-in-javascript-ckd6kqoaz023am8s15m0u4x5k)
+    * [A step by step guide to functions in JavaScript](https://blog.rutikwankhade.dev/a-step-by-step-guide-to-functions-in-javascript-ck988kutu0038css17bxftivd)
+    * [An Introduction to JavaScript Callbacks](https://blog.nemotivity.xyz/an-introduction-to-javascript-callbacks-ckdcmybdx03qu66s1eh06a991)
+    * [Understanding JavaScript Callback Functions for Beginners](https://lo-victoria.com/understanding-javascript-callback-functions-for-beginners-ckav5w0qj07694us1xik1nstt)
+    * [Introduction To JavaScript Arrow Functions](https://yourwonder.hashnode.dev/arrow-functions-cka896kes01zey6s1ndq1gpdt)
 
 
 ## Array
@@ -102,8 +106,9 @@
 ](https://www.w3schools.com/js/js_best_practices.asp)
 
 
-# Bibliografia
+# Bibliografia & Utils
 
 * [JavaScript Tutorial
 ](https://www.w3schools.com/js/default.asp)
 * [JavaScript basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+* [A collection of articles that will help you get better at JavaScript](https://github.com/didicodes/javascript-dev-bookmarks)
