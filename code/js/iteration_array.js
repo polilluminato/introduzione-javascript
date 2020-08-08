@@ -1,5 +1,5 @@
-var arrayNumeri = [1,2,3,4,5,6];
-console.log(arrayNumeri);
+// var arrayNumeri = [1,2,3,4,5,6];
+// console.log(arrayNumeri);
 
 // for( let i = 0 ; i < arrayNumeri.length ; i++ ){
 //     console.log(arrayNumeri[i]);
@@ -7,6 +7,8 @@ console.log(arrayNumeri);
 // arrayNumeri.forEach((single)=>{
 //     console.log(single);
 // });
+
+
 
 
 
@@ -27,12 +29,15 @@ console.log(arrayNumeri);
 
 
 
+
 //FILTER: nuovo array con solo i valori che rispettano
 //  una certa condizione
 // let arrayNumeriPari = arrayNumeri.filter((single)=>{
 //     return single % 2 == 0;
 // });
 // console.log(arrayNumeriPari);
+
+
 
 
 
@@ -56,6 +61,8 @@ console.log(arrayNumeri);
 
 
 
+
+
 //EVERY: controllo se TUTTE le componenti rispettano una condizione
 // let tuttiPositivi = arrayNumeri.every((single)=>{
 //     return single >= 0;
@@ -67,7 +74,27 @@ console.log(arrayNumeri);
 // console.log(tuttiMaggioriDiTre);
 
 
-//SOME: 
 
 
-//FIND: 
+
+
+
+
+//SOME: controllo se qualche componente rispetta una condizione
+// let qualcunoSopraAlCinque = arrayNumeri.some((single)=>{
+//     return single >= 5;
+// });
+// console.log(qualcunoSopraAlCinque);
+
+
+
+
+
+
+
+
+//FIND: ritorna il primo valore dell'array che rispetta una certa condizione
+// let ilPrimoSopraAlCinque = arrayNumeri.find((single)=>{
+//     return single >= 5;
+// });
+// console.log(ilPrimoSopraAlCinque);
