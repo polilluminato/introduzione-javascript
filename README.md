@@ -121,3 +121,4 @@
 ](https://www.w3schools.com/js/default.asp)
 * [JavaScript basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 * [A collection of articles that will help you get better at JavaScript](https://github.com/didicodes/javascript-dev-bookmarks)
+* [Best Resources To Learn JavaScript As A Beginner](https://pit.hashnode.dev/best-resources-to-learn-javascript-as-a-beginner-ckdr7cmma04ehl9s1dq85cr4i)
