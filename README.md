@@ -108,6 +108,10 @@
 
 * Articoli
     * [An Introduction to Promises in JavaScript](https://medium.com/better-programming/an-introduction-to-promises-in-javascript-a29bfdad4643)
+    * [All you need to know about promises in JavaScript](https://admerox.hashnode.dev/all-you-need-to-know-about-promises-in-javascript-ckdj4hgsz01dgzzs1fo9ph9sq)
+    * [JavaScript: Promises](https://blog.gyenabubakar.dev/javascript-promises-ck2arq86l00nt3ns1s5xtia35)
+    * [Promises, Promise Chain and Async/Await ⏳](https://hashnode.com/post/promises-promise-chain-and-asyncawait-hourglass-with-flowing-sand-cjsmf41pz004nzts12balynb2)
+    * [5 most important Code Recipes for Asynchronous Code Execution](https://hashnode.com/post/5-most-important-code-recipes-for-asynchronous-code-execution-cjsw5i2ce0007los1haaqla7b)
 
 ## Esempi di best practice
 
