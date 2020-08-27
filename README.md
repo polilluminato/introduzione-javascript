@@ -64,6 +64,7 @@
 ](https://www.w3schools.com/js/js_const.asp)
 * Articoli
     * [Var, Let, and Const – What's the Difference?](https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/)
+    * [ES6 - var vs let & const](https://blog.skay.dev/es6-var-vs-let-and-const-ckecjlmq700rs9as17u813cxk)
 
 
 ## Oggetti e JSON
