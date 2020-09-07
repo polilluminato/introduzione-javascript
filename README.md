@@ -78,6 +78,7 @@
 * Articoli
     * [The Secret Power of JSON.Stringify](https://medium.com/better-programming/the-secret-power-of-json-stringify-f5aad9370ad)
     * [Different ways to create Objects in JavaScript](https://blog.pankaj.pro/different-ways-to-create-objects-in-javascript-ck66i6wqp03ip89s1uw155rb7)
+    * [Understanding JSON in JavaScript](https://medium.com/@timothyrobards/understanding-json-in-javascript-5098876d0915)
 
 
 ## Ternary operator
@@ -102,8 +103,19 @@
     * [Build your JavaScript Muscles with map, reduce, filter and other array iterators](https://blog.greenroots.info/build-your-javascript-muscles-with-map-reduce-filter-and-other-array-iterators-cjyo22miw000xzss1ydfqveib)
     * [How To Start Using .map() .filter() and .reduce()](https://medium.com/better-programming/how-to-start-using-map-filter-and-reduce-e01edba0d81)
     * [15 must-know JavaScript array methods in 2020](https://hashnode.com/post/15-must-know-javascript-array-methods-in-2020-ck5cc0zqm01b9qps1dpig0mtv)
+    * [Avoid Writing Another For-Loop in JavaScript](https://medium.com/better-programming/never-write-another-for-loop-in-javascript-9db11afa6445)
 
 ## Moduli e require
+
+* [Node.js Modules](https://www.w3schools.com/nodejs/nodejs_modules.asp)
+
+## Semantic versioning
+
+* Articoli
+    * [About semantic versioning](https://docs.npmjs.com/about-semantic-versioning)
+    * [Semantic Versioning using npm](https://nodejs.dev/learn/semantic-versioning-using-npm)
+    * [Npm Semantic Versioning](https://www.javascripttutorial.net/nodejs-tutorial/npm-semantic-versioning/)
+    * [Semantic Versioning using npm](https://flaviocopes.com/npm-semantic-versioning/)
 
 ## Async/Await e Promise
 
