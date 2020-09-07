@@ -1,16 +1,15 @@
 {
-  "name": "js",
+  "name": "corso_javascript",
   "version": "1.0.0",
   "description": "",
-  "main": "array.js",
+  "main": "moduli_npm.js",
   "dependencies": {
-    "moment": "^2.27.0",
-    "underscore": "^1.11.0"
+    "moment": "^2.27.0"
   },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Bonacina Alberto",
   "license": "ISC"
 }
