@@ -100,10 +100,6 @@
     * [15 must-know JavaScript array methods in 2020](https://hashnode.com/post/15-must-know-javascript-array-methods-in-2020-ck5cc0zqm01b9qps1dpig0mtv)
     * [Avoid Writing Another For-Loop in JavaScript](https://medium.com/better-programming/never-write-another-for-loop-in-javascript-9db11afa6445)
 
-## Moduli e require
-
-* [Node.js Modules](https://www.w3schools.com/nodejs/nodejs_modules.asp)
-
 ## Semantic versioning
 
 * Articoli
@@ -111,6 +107,10 @@
     * [Semantic Versioning using npm](https://nodejs.dev/learn/semantic-versioning-using-npm)
     * [Npm Semantic Versioning](https://www.javascripttutorial.net/nodejs-tutorial/npm-semantic-versioning/)
     * [Semantic Versioning using npm](https://flaviocopes.com/npm-semantic-versioning/)
+
+## Moduli e require
+
+* [Node.js Modules](https://www.w3schools.com/nodejs/nodejs_modules.asp)
 
 ## Async/Await e Promise
 
