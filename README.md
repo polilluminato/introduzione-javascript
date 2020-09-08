@@ -91,11 +91,6 @@
 * [Template literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
 
 
-## Classi
-
-* [Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
-
-
 ## Iteration su Array
 
 * [JavaScript Array Iteration Methods](https://www.w3schools.com/JS/js_array_iteration.asp)
