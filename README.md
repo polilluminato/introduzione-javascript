@@ -129,9 +129,9 @@
 
 # Bibliografia & Utils
 
-* [JavaScript Tutorial
-](https://www.w3schools.com/js/default.asp)
+* [JavaScript Tutorial](https://www.w3schools.com/js/default.asp)
 * [JavaScript basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 * [A collection of articles that will help you get better at JavaScript](https://github.com/didicodes/javascript-dev-bookmarks)
 * [Best Resources To Learn JavaScript As A Beginner](https://pit.hashnode.dev/best-resources-to-learn-javascript-as-a-beginner-ckdr7cmma04ehl9s1dq85cr4i)
 * [A Guide to Object-Oriented Programming in JavaScript](https://medium.com/better-programming/object-oriented-programming-in-javascript-b3bda28d3e81)
+* [Parameter And Argument - What Is The Difference Between Them?](https://catalins.tech/parameter-and-argument-what-is-the-difference-between-them)
