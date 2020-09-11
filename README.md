@@ -60,8 +60,8 @@
 
 * [JavaScript Variables](https://www.w3schools.com/js/js_variables.asp)
 * [JavaScript Let](https://www.w3schools.com/js/js_let.asp)
-* [JavaScript Const
-](https://www.w3schools.com/js/js_const.asp)
+* [JavaScript Const](https://www.w3schools.com/js/js_const.asp)
+* [JavaScript Hoisting](https://www.w3schools.com/js/js_hoisting.asp)
 * Articoli
     * [Var, Let, and Const – What's the Difference?](https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/)
     * [ES6 - var vs let & const](https://blog.skay.dev/es6-var-vs-let-and-const-ckecjlmq700rs9as17u813cxk)
