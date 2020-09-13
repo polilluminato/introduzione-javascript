@@ -74,3 +74,12 @@
 // if ( c == d ) {
 //     console.log('Avrà ragione JavaScript?');
 // }
+
+
+
+
+
+
+//Attenzione
+// console.log( 1 < 2 < 3 );
+// console.log( 3 > 2 > 1 );

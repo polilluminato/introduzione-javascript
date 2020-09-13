@@ -5,6 +5,7 @@
 * [The Console Object](https://www.w3schools.com/Jsref/api_console.asp)
 * [A Guide to Console Commands](https://css-tricks.com/a-guide-to-console-commands/)
 
+
 ## Dichiarazione variabili, assegnamento e tipi di dato
 
 * Nomi di variabili
@@ -16,8 +17,7 @@
 * Tipi di dato: 
     * [JavaScript Data Types](https://www.w3schools.com/js/js_datatypes.asp)
     * [JavaScript data types and data structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
-    * [Type conversion
-](https://developer.mozilla.org/en-US/docs/Glossary/Type_conversion)
+    * [Type conversion](https://developer.mozilla.org/en-US/docs/Glossary/Type_conversion)
     * [Type coercion](https://developer.mozilla.org/en-US/docs/Glossary/Type_coercion)
 * Operatori di comparazione: 
     * [JavaScript Comparison and Logical Operators](https://www.w3schools.com/js/js_comparisons.asp)
@@ -25,6 +25,8 @@
 * Convenzioni nella scrittura del linguaggio: 
     * [JavaScript Style Guide and Coding Conventions](https://www.w3schools.com/js/js_conventions.asp)
     * [JavaScript Naming Conventions](https://www.robinwieruch.de/javascript-naming-conventions)
+* Articoli
+    * [Why 3 > 2 > 1 gives false](https://kahdev.hashnode.dev/why-3-greater-2-greater-1-gives-false)
 
 
 ## Function e Arrow functions
@@ -100,6 +102,7 @@
     * [15 must-know JavaScript array methods in 2020](https://hashnode.com/post/15-must-know-javascript-array-methods-in-2020-ck5cc0zqm01b9qps1dpig0mtv)
     * [Avoid Writing Another For-Loop in JavaScript](https://medium.com/better-programming/never-write-another-for-loop-in-javascript-9db11afa6445)
 
+
 ## Semantic versioning
 
 * Articoli
@@ -108,10 +111,12 @@
     * [Npm Semantic Versioning](https://www.javascripttutorial.net/nodejs-tutorial/npm-semantic-versioning/)
     * [Semantic Versioning using npm](https://flaviocopes.com/npm-semantic-versioning/)
 
+
 ## Moduli e require
 
 * [Node.js Modules](https://www.w3schools.com/nodejs/nodejs_modules.asp)
 * [JavaScript modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
+
 
 ## Async/Await e Promise
 
@@ -124,6 +129,7 @@
     * [Promises, Promise Chain and Async/Await ⏳](https://hashnode.com/post/promises-promise-chain-and-asyncawait-hourglass-with-flowing-sand-cjsmf41pz004nzts12balynb2)
     * [5 most important Code Recipes for Asynchronous Code Execution](https://hashnode.com/post/5-most-important-code-recipes-for-asynchronous-code-execution-cjsw5i2ce0007los1haaqla7b)
     * [JavaScript Promises for Dummies](https://scotch.io/tutorials/javascript-promises-for-dummies)
+
 
 ## Esempi di best practice
 
