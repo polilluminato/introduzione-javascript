@@ -1,0 +1,17 @@
+<div class="container">
+    <div class="row">
+        <% data.forEach(function(singleAddress){ %>
+            <div class="col-3">
+                <div class="card" style="width: 18rem;">
+                    <div class="card-body">
+                      <h5 class="card-title"><%= singleAddress.street %></h5>
+                      <h6 class="card-subtitle mb-2 text-muted"><%= singleAddress.city %> (<%= singleAddress.county_code %>)</h6>
+                      <p class="card-text"><%= singleAddress.zipcode %>, <%= singleAddress.country %></p>
+                      <a href="#" class="card-link">Vai</a>
+                      <a href="#" class="card-link">Mappa</a>
+                    </div>
+                  </div>
+            </div>
+        <% }); %>
+    </div>
+</div>
