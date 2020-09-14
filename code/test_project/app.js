@@ -26,7 +26,6 @@ app.set('view engine', 'ejs');
 
 /*Router per le api*/
 var routers = []
-    routers.push({path:"/server",file:('./routes/server')});
     routers.push({path:"/browser",file:('./routes/browser')});
 
 for(var i in routers){
