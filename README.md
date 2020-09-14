@@ -145,8 +145,3 @@
 * [Best Resources To Learn JavaScript As A Beginner](https://pit.hashnode.dev/best-resources-to-learn-javascript-as-a-beginner-ckdr7cmma04ehl9s1dq85cr4i)
 * [A Guide to Object-Oriented Programming in JavaScript](https://medium.com/better-programming/object-oriented-programming-in-javascript-b3bda28d3e81)
 * [Parameter And Argument - What Is The Difference Between Them?](https://catalins.tech/parameter-and-argument-what-is-the-difference-between-them)
-
-# Blog e Community
-
-* [Hashnode](https://hashnode.com/)
-* [Dev.to](https://dev.to/)
