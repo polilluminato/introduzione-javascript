@@ -2,6 +2,8 @@
 // function saluti(){
 //     console.log("Ciao a tutti");
 // }
+// saluti();
+
 // var funzioneSaluti = saluti;
 // funzioneSaluti();
 

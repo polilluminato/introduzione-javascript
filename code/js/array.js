@@ -39,40 +39,39 @@
 // var operationalArray = [1,2,3,4,5,6,7];
 // console.log("Lunghezza prima: " + operationalArray.length);
 
-
-//Operazioni su array
+// Operazioni su array
 // operationalArray.push(8);
 // console.log("Push");
 // console.log(operationalArray);
-// console.log("Lunghezza prima: " + operationalArray.length);
+// console.log("Lunghezza dopo: " + operationalArray.length);
 // console.log("\n");
 
 // operationalArray.pop();
 // console.log("Pop");
 // console.log(operationalArray);
-// console.log("Lunghezza prima: " + operationalArray.length);
+// console.log("Lunghezza dopo: " + operationalArray.length);
 // console.log("\n");
 
 // operationalArray.shift();
 // console.log("Shift");
 // console.log(operationalArray);
-// console.log("Lunghezza prima: " + operationalArray.length);
+// console.log("Lunghezza dopo: " + operationalArray.length);
 // console.log("\n");
 
 // operationalArray.unshift(1);
 // console.log("Unshift");
 // console.log(operationalArray);
-// console.log("Lunghezza prima: " + operationalArray.length);
+// console.log("Lunghezza dopo: " + operationalArray.length);
 // console.log("\n");
 
 // operationalArray.splice(2,1); // (posizione,quanti_elementi_rimuovere)
 // console.log("Remove at index (che so)");
 // console.log(operationalArray);
-// console.log("Lunghezza prima: " + operationalArray.length);
+// console.log("Lunghezza dopo: " + operationalArray.length);
 // console.log("\n");
 
 // operationalArray.splice(operationalArray.indexOf(4),1); // (posizione,quanti_elementi_rimuovere)
 // console.log("Remove at index (che non so)");
 // console.log(operationalArray);
-// console.log("Lunghezza prima: " + operationalArray.length);
+// console.log("Lunghezza dopo: " + operationalArray.length);
 // console.log("\n");

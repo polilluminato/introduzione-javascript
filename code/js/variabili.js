@@ -54,6 +54,9 @@
 
 
 
+
+
+
 //Operatori di comparazione e coercion
 // var a = 5, b = '6';
 // if( a < b ) {
@@ -74,6 +77,8 @@
 // if ( c == d ) {
 //     console.log('Avrà ragione JavaScript?');
 // }
+
+
 
 
 

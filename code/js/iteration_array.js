@@ -50,6 +50,8 @@
 //     return total + single ;
 // });
 // console.log(sommaNumeri);
+
+
 // let sommaNumeriNonDaZero = arrayNumeri.reduce((total,single)=>{
 //     return total + single ;
 // },1000);

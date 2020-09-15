@@ -1,6 +1,23 @@
+// var eta = 18, isMaggiorenne;
+// if(eta >= 18){
+//     isMaggiorenne = true;
+// } else {
+//     isMaggiorenne = false;
+// }
+// console.log("Sono maggiorenne? " + isMaggiorenne);
+
+
+
+
+
+
+
 // var eta = 18;
 // var isMaggiorenne = ( eta >= 18 ? true : false );
 // console.log("Sono maggiorenne? " + isMaggiorenne);
+
+
+
 
 
 
