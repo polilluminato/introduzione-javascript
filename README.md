@@ -116,6 +116,9 @@
 
 * [Node.js Modules](https://www.w3schools.com/nodejs/nodejs_modules.asp)
 * [JavaScript modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
+* [npm](https://www.npmjs.com/)
+* [npm docs](https://docs.npmjs.com/about-npm/)
+* [What is npm?](https://www.w3schools.com/whatis/whatis_npm.asp)
 
 
 ## Async/Await e Promise
