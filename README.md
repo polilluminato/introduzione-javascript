@@ -1,4 +1,4 @@
-# Introduzione a javascript
+# Introduzione a JavaScript
 
 ## Loggare variabili in console
 
