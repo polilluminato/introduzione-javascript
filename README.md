@@ -135,6 +135,7 @@
 
 * [JavaScript Best Practices](https://www.w3schools.com/js/js_best_practices.asp)
 * [5 best practices for clean coding in JavaScript](https://deepaksisodiya.hashnode.dev/5-best-practices-for-clean-coding-in-javascript-ckewx32f801e7ggs1ddys9m3f)
+* [JavaScript Common Mistakes](https://www.w3schools.com/js/js_mistakes.asp)
 
 
 # Bibliografia & Utils
