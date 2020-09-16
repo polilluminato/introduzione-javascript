@@ -7,7 +7,6 @@ env('./.env');
 
 const app = express();
 
-
 //Aggiungo la gestione di ejs per le viste
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'ejs');
@@ -21,7 +20,6 @@ for(var i in routers){
     var req = require(routers[i].file);
     app.use(routers[i].path, req);
 }
-
 
 //Avvio l'applicazione sulla porta definita nel file .env
 const port = process.env.SERVER_PORT;
