@@ -4,6 +4,7 @@
 
 * [The Console Object](https://www.w3schools.com/Jsref/api_console.asp)
 * [A Guide to Console Commands](https://css-tricks.com/a-guide-to-console-commands/)
+* [Console log with params](https://h.daily-dev-tips.com/console-log-with-params)
 
 
 ## Dichiarazione variabili, assegnamento e tipi di dato
@@ -67,6 +68,7 @@
 * Articoli
     * [Var, Let, and Const – What's the Difference?](https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/)
     * [ES6 - var vs let & const](https://blog.skay.dev/es6-var-vs-let-and-const-ckecjlmq700rs9as17u813cxk)
+    * [Learn var, const, and let [JavaScript] in 6 minutes](https://sarveshkadam.tech/learn-var-const-and-let-javascript-in-6-minutes)
 
 
 ## Oggetti e JSON
