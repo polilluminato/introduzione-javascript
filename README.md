@@ -57,7 +57,8 @@
     * [Ways to Empty an Array in JavaScript and the Consequences](https://blog.greenroots.info/ways-to-empty-an-array-in-javascript-and-the-consequences-cjwt45q9d002h2fs1kz5a77a2)
     * [Manipulating Arrays in JavaScript](https://bolajiayodeji.com/manipulating-arrays-in-javascript-cjvuuty3500354js1sba6z6yr)
     * [Understanding JavaScript Slice and Splice](https://babysteps.hashnode.dev/understanding-javascript-slice-and-splice-ckd8vl17x00bpqus1cysu10qy)
-
+    * [Splice in JavaScript](https://suprabhasupi.hashnode.dev/splice-in-javascript)
+    * [JavaScript Array Methods()...4](https://amantyagi.hashnode.dev/javascript-array-methods4)
 
 ## const, var e let
 
@@ -73,10 +74,8 @@
 
 ## Oggetti e JSON
 
-* [JavaScript Objects
-](https://www.w3schools.com/js/js_object_definition.asp)
-* [JSON - Introduction
-](https://www.w3schools.com/js/js_json_intro.asp)
+* [JavaScript Objects](https://www.w3schools.com/js/js_object_definition.asp)
+* [JSON - Introduction](https://www.w3schools.com/js/js_json_intro.asp)
 * [JSON.parse()](https://www.w3schools.com/js/js_json_parse.asp)
 * [JSON.stringify()](https://www.w3schools.com/js/js_json_stringify.asp)
 * Articoli
@@ -135,6 +134,10 @@
     * [5 most important Code Recipes for Asynchronous Code Execution](https://hashnode.com/post/5-most-important-code-recipes-for-asynchronous-code-execution-cjsw5i2ce0007los1haaqla7b)
     * [JavaScript Promises for Dummies](https://scotch.io/tutorials/javascript-promises-for-dummies)
 
+
+## Miscellaneous
+
+* [Everything you need to know about JavaScript Set](https://blog.greenroots.info/everything-you-need-to-know-about-javascript-set-ckfgkprkg01pw8as1epsycua8)
 
 ## Esempi di best practice
 
