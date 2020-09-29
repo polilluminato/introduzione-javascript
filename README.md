@@ -102,6 +102,7 @@
     * [How To Start Using .map() .filter() and .reduce()](https://medium.com/better-programming/how-to-start-using-map-filter-and-reduce-e01edba0d81)
     * [15 must-know JavaScript array methods in 2020](https://hashnode.com/post/15-must-know-javascript-array-methods-in-2020-ck5cc0zqm01b9qps1dpig0mtv)
     * [Avoid Writing Another For-Loop in JavaScript](https://medium.com/better-programming/never-write-another-for-loop-in-javascript-9db11afa6445)
+    * [Using map() method in JavaScript](https://victorcodes.hashnode.dev/using-map-method-in-javascript)
 
 
 ## Semantic versioning
