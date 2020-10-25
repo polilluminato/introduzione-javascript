@@ -134,6 +134,7 @@
     * [Promises, Promise Chain and Async/Await ⏳](https://hashnode.com/post/promises-promise-chain-and-asyncawait-hourglass-with-flowing-sand-cjsmf41pz004nzts12balynb2)
     * [5 most important Code Recipes for Asynchronous Code Execution](https://hashnode.com/post/5-most-important-code-recipes-for-asynchronous-code-execution-cjsw5i2ce0007los1haaqla7b)
     * [JavaScript Promises for Dummies](https://scotch.io/tutorials/javascript-promises-for-dummies)
+    * [Async/Await in JavaScript Explained](https://blog.skay.dev/asyncawait-in-javascript-explained)
 
 
 ## Miscellaneous
