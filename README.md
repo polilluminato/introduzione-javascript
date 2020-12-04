@@ -5,6 +5,7 @@
 * [The Console Object](https://www.w3schools.com/Jsref/api_console.asp)
 * [A Guide to Console Commands](https://css-tricks.com/a-guide-to-console-commands/)
 * [Console log with params](https://h.daily-dev-tips.com/console-log-with-params)
+* [11 JavaScript Console Commands Explained](https://josiasdev.best/11-javascript-console-commands-explained)
 
 
 ## Dichiarazione variabili, assegnamento e tipi di dato
