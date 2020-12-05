@@ -7,7 +7,6 @@
 * [Console log with params](https://h.daily-dev-tips.com/console-log-with-params)
 * [11 JavaScript Console Commands Explained](https://josiasdev.best/11-javascript-console-commands-explained)
 
-
 ## Dichiarazione variabili, assegnamento e tipi di dato
 
 * Nomi di variabili
@@ -29,7 +28,7 @@
     * [JavaScript Naming Conventions](https://www.robinwieruch.de/javascript-naming-conventions)
 * Articoli
     * [Why 3 > 2 > 1 gives false](https://kahdev.hashnode.dev/why-3-greater-2-greater-1-gives-false)
-
+    * [Types of Data Types in JavaScript](https://hikmah94.hashnode.dev/types-of-data-types-in-javascript-ckdd6oiko00ekyss1028gebgu)
 
 ## Function e Arrow functions
 
@@ -43,7 +42,6 @@
     * [An Introduction to JavaScript Callbacks](https://blog.nemotivity.xyz/an-introduction-to-javascript-callbacks-ckdcmybdx03qu66s1eh06a991)
     * [Understanding JavaScript Callback Functions for Beginners](https://lo-victoria.com/understanding-javascript-callback-functions-for-beginners-ckav5w0qj07694us1xik1nstt)
     * [Introduction To JavaScript Arrow Functions](https://yourwonder.hashnode.dev/arrow-functions-cka896kes01zey6s1ndq1gpdt)
-
 
 ## Array
 
@@ -60,7 +58,8 @@
     * [Understanding JavaScript Slice and Splice](https://babysteps.hashnode.dev/understanding-javascript-slice-and-splice-ckd8vl17x00bpqus1cysu10qy)
     * [Splice in JavaScript](https://suprabhasupi.hashnode.dev/splice-in-javascript)
     * [JavaScript Array Methods()...4](https://amantyagi.hashnode.dev/javascript-array-methods4)
-
+    * [JavaScript Array Methods](https://gyen.hashnode.dev/javascript-array-methods-ck8z9mfch01jqmys126svpjmg)
+    * [Javascript Array Method Cheat Sheet](https://code4ever.com/javascript-array-method-cheat-sheet/)
 ## const, var e let
 
 * [JavaScript Variables](https://www.w3schools.com/js/js_variables.asp)
@@ -71,7 +70,6 @@
     * [Var, Let, and Const – What's the Difference?](https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/)
     * [ES6 - var vs let & const](https://blog.skay.dev/es6-var-vs-let-and-const-ckecjlmq700rs9as17u813cxk)
     * [Learn var, const, and let [JavaScript] in 6 minutes](https://sarveshkadam.tech/learn-var-const-and-let-javascript-in-6-minutes)
-
 
 ## Oggetti e JSON
 
@@ -84,16 +82,13 @@
     * [Different ways to create Objects in JavaScript](https://blog.pankaj.pro/different-ways-to-create-objects-in-javascript-ck66i6wqp03ip89s1uw155rb7)
     * [Understanding JSON in JavaScript](https://medium.com/@timothyrobards/understanding-json-in-javascript-5098876d0915)
 
-
 ## Ternary operator
 
 * [JavaScript Comparison and Logical Operators](https://www.w3schools.com/js/js_comparisons.asp)
 
-
 ## Template literals
 
 * [Template literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
-
 
 ## Iteration su Array
 
@@ -105,7 +100,6 @@
     * [Avoid Writing Another For-Loop in JavaScript](https://medium.com/better-programming/never-write-another-for-loop-in-javascript-9db11afa6445)
     * [Using map() method in JavaScript](https://victorcodes.hashnode.dev/using-map-method-in-javascript)
 
-
 ## Semantic versioning
 
 * Articoli
@@ -114,7 +108,6 @@
     * [Npm Semantic Versioning](https://www.javascripttutorial.net/nodejs-tutorial/npm-semantic-versioning/)
     * [Semantic Versioning using npm](https://flaviocopes.com/npm-semantic-versioning/)
 
-
 ## Moduli e require
 
 * [Node.js Modules](https://www.w3schools.com/nodejs/nodejs_modules.asp)
@@ -122,7 +115,6 @@
 * [npm](https://www.npmjs.com/)
 * [npm docs](https://docs.npmjs.com/about-npm/)
 * [What is npm?](https://www.w3schools.com/whatis/whatis_npm.asp)
-
 
 ## Async/Await e Promise
 
@@ -137,7 +129,6 @@
     * [JavaScript Promises for Dummies](https://scotch.io/tutorials/javascript-promises-for-dummies)
     * [Async/Await in JavaScript Explained](https://blog.skay.dev/asyncawait-in-javascript-explained)
 
-
 ## Miscellaneous
 
 * [Everything you need to know about JavaScript Set](https://blog.greenroots.info/everything-you-need-to-know-about-javascript-set-ckfgkprkg01pw8as1epsycua8)
@@ -148,6 +139,12 @@
 * [5 best practices for clean coding in JavaScript](https://deepaksisodiya.hashnode.dev/5-best-practices-for-clean-coding-in-javascript-ckewx32f801e7ggs1ddys9m3f)
 * [JavaScript Common Mistakes](https://www.w3schools.com/js/js_mistakes.asp)
 
+## Advanced
+
+* [36 JavaScript Concepts You Need to Master to Become an Expert](https://medium.com/better-programming/36-javascript-concepts-you-need-to-master-to-become-an-expert-c6630ac41bf4)
+* [You Don't Know JS (book series) - 1st Edition](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md)
+* [You Must Understand These 14 JavaScript Functions](https://medium.com/javascript-in-plain-english/you-must-understand-these-14-javasript-functions-1f4fa1c620e2)
+* [Zero to One: How I mastered JavaScript and how you can too](https://hashnode.com/post/zero-to-one-how-i-mastered-javascript-and-how-you-can-too-ciuwmrw9j00r50q539clhhdj7)
 
 # Bibliografia & Utils
 
