@@ -60,6 +60,7 @@
     * [JavaScript Array Methods()...4](https://amantyagi.hashnode.dev/javascript-array-methods4)
     * [JavaScript Array Methods](https://gyen.hashnode.dev/javascript-array-methods-ck8z9mfch01jqmys126svpjmg)
     * [Javascript Array Method Cheat Sheet](https://code4ever.com/javascript-array-method-cheat-sheet/)
+    * [Vanilla JavaScript Chunk Array](https://hashnode.com/post/vanilla-javascript-chunk-array-ckaqemftt03y24us1b7pn7b7q)
 ## const, var e let
 
 * [JavaScript Variables](https://www.w3schools.com/js/js_variables.asp)
@@ -138,6 +139,8 @@
 * [JavaScript Best Practices](https://www.w3schools.com/js/js_best_practices.asp)
 * [5 best practices for clean coding in JavaScript](https://deepaksisodiya.hashnode.dev/5-best-practices-for-clean-coding-in-javascript-ckewx32f801e7ggs1ddys9m3f)
 * [JavaScript Common Mistakes](https://www.w3schools.com/js/js_mistakes.asp)
+* [JavaScript Naming Conventions](https://www.robinwieruch.de/javascript-naming-conventions)
+* [5 Anti-Patterns to Avoid When Working With Collections in JavaScript](https://medium.com/better-programming/5-anti-patterns-to-avoid-when-working-with-collections-in-javascript-4e3bbd0a75d3)
 
 ## Advanced
 
@@ -145,6 +148,9 @@
 * [You Don't Know JS (book series) - 1st Edition](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md)
 * [You Must Understand These 14 JavaScript Functions](https://medium.com/javascript-in-plain-english/you-must-understand-these-14-javasript-functions-1f4fa1c620e2)
 * [Zero to One: How I mastered JavaScript and how you can too](https://hashnode.com/post/zero-to-one-how-i-mastered-javascript-and-how-you-can-too-ciuwmrw9j00r50q539clhhdj7)
+* [Start practicing OOP in JavaScript today!](https://blogdolipe.com.br/start-practicing-oop-in-javascript-today)
+* [Clean Code Applied to JavaScript — Part III. Functions](https://carlillo.hashnode.dev/clean-code-applied-to-javascript-part-iii-functions-ck4329jc80146u3s198tuokgm)
+* [10 JavaScript Quiz Questions and Answers to Sharpen Your Skills](https://dev.to/nas5w/10-javascript-quiz-questions-and-answers-to-sharpen-your-skills-255m)
 
 # Bibliografia & Utils
 
