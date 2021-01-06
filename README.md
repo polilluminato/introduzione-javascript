@@ -6,6 +6,7 @@
 * [A Guide to Console Commands](https://css-tricks.com/a-guide-to-console-commands/)
 * [Console log with params](https://h.daily-dev-tips.com/console-log-with-params)
 * [11 JavaScript Console Commands Explained](https://josiasdev.best/11-javascript-console-commands-explained)
+* [Debug Javascript In The Console](https://anuradha.hashnode.dev/debug-javascript-in-the-console)
 
 ## Dichiarazione variabili, assegnamento e tipi di dato
 
@@ -61,6 +62,8 @@
     * [JavaScript Array Methods](https://gyen.hashnode.dev/javascript-array-methods-ck8z9mfch01jqmys126svpjmg)
     * [Javascript Array Method Cheat Sheet](https://code4ever.com/javascript-array-method-cheat-sheet/)
     * [Vanilla JavaScript Chunk Array](https://hashnode.com/post/vanilla-javascript-chunk-array-ckaqemftt03y24us1b7pn7b7q)
+    * [Beginner's guide to Arrays in JavaScript](https://dev.to/codingwolfat/beginner-s-guide-to-arrays-in-javascript-4lne)
+    * [Circular access of Array in JavaScript](https://emma-turner.hashnode.dev/circular-access-of-array-in-javascript)
 ## const, var e let
 
 * [JavaScript Variables](https://www.w3schools.com/js/js_variables.asp)
@@ -100,6 +103,7 @@
     * [15 must-know JavaScript array methods in 2020](https://hashnode.com/post/15-must-know-javascript-array-methods-in-2020-ck5cc0zqm01b9qps1dpig0mtv)
     * [Avoid Writing Another For-Loop in JavaScript](https://medium.com/better-programming/never-write-another-for-loop-in-javascript-9db11afa6445)
     * [Using map() method in JavaScript](https://victorcodes.hashnode.dev/using-map-method-in-javascript)
+    * [JavaScript Array Filter Method Practice in 5 Minutes](https://jamesqquick.hashnode.dev/javascript-array-filter-method-practice-in-5-minutes?s=09)
 
 ## Semantic versioning
 
@@ -133,6 +137,8 @@
 ## Miscellaneous
 
 * [Everything you need to know about JavaScript Set](https://blog.greenroots.info/everything-you-need-to-know-about-javascript-set-ckfgkprkg01pw8as1epsycua8)
+* [The Modern JavaScript Tutorial](https://javascript.info/)
+* [The 7 Best Resources To Learn JavaScript As A Beginner](https://catalins.tech/the-7-best-resources-to-learn-javascript-as-a-beginner)
 
 ## Esempi di best practice
 
