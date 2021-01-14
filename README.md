@@ -157,6 +157,7 @@
 * [Start practicing OOP in JavaScript today!](https://blogdolipe.com.br/start-practicing-oop-in-javascript-today)
 * [Clean Code Applied to JavaScript — Part III. Functions](https://carlillo.hashnode.dev/clean-code-applied-to-javascript-part-iii-functions-ck4329jc80146u3s198tuokgm)
 * [10 JavaScript Quiz Questions and Answers to Sharpen Your Skills](https://dev.to/nas5w/10-javascript-quiz-questions-and-answers-to-sharpen-your-skills-255m)
+* [Functional Programming Principles in JavaScript](https://luisarbezerra.com/functional-programming-principles-in-javascript)
 
 # Bibliografia & Utils
 
