@@ -21,6 +21,7 @@
     * [JavaScript data types and data structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
     * [Type conversion](https://developer.mozilla.org/en-US/docs/Glossary/Type_conversion)
     * [Type coercion](https://developer.mozilla.org/en-US/docs/Glossary/Type_coercion)
+    * [Javascript Data Types (2)](https://blog.voltry.in/javascript-data-types)
 * Operatori di comparazione: 
     * [JavaScript Comparison and Logical Operators](https://www.w3schools.com/js/js_comparisons.asp)
     * [Equality comparisons and sameness](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness)
